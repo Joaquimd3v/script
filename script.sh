@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-
+echo "--"
 echo "=== Setup inicial Arch ==="
 
 # --- Instala git se não existir ---
